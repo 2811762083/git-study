@@ -7,3 +7,5 @@
 	增加了relax
 版本3--
 	增加了house
+版本4--
+	增加了pencil
